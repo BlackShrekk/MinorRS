@@ -1,0 +1,10 @@
+
+.header {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+menu main {
+    display: flex;
+    flex-basis: 90%;
+}
